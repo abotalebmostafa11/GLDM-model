@@ -1,8 +1,0 @@
-Train Score: 34.04 MSE
-Train Score: 5.83 RMSE
-Train Score: 0.65 MAE
-Train Score: 0.00 MAPE
-Train Score: 1.00 r2
-Train Score: 0.01 RRMSE
-Train Score: 1.00 correlation 
-Train Score: -0.65 Mean Bias Error 
