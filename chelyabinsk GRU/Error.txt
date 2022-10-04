@@ -1,0 +1,22 @@
+Train Score: 15637.84 MSE
+Test Score: 229.31 MSE
+Train Score: 125.05 RMSE
+Test Score: 15.14 RMSE
+Train Score: 30.90 MAE
+Test Score: 14.23 MAE
+Train Score: 180917731542697.19 MAPE
+Test Score: 0.04 MAPE
+Train Score: 0.97 r2
+Test Score: -0.43 r2
+Train Score: 0.33 RRMSE
+Test Score: 0.05 RRMSE
+Train Score: 0.99 correlation 
+Test Score: 0.98 correlation 
+Train Score: 16.94 Mean Bias Error 
+Test Score: -14.23 Mean Bias Error 
+Train Score: -16.95 E 
+Train Score: 30.89 D 
+Test Score: 7.46 E 
+Test Score: 7.46 D 
+Train Score: 14978.54 Optimum Loss Error 
+Test Score: -71.14 Optimum Loss Error 
