@@ -1,6 +1,6 @@
 # GLDM-model
 <br>
-		Daily covid19 infection cases in Chelyabinsk (150 days) (12.03.2020 to 07.08.2020)
+Daily covid19 infection cases in Chelyabinsk (850 days) 
   
 All Results in this link
 <br>
